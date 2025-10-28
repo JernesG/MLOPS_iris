@@ -1,7 +1,12 @@
 pandas
+matplotlib
+seaborn
+imblearn
 scikit-learn
+xgboost
 fastapi
 uvicorn
 joblib
 evidently
 dvc
+ipykernel

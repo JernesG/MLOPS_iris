@@ -8,8 +8,13 @@ dependencies = [
     "dvc>=3.63.0",
     "evidently>=0.7.15",
     "fastapi>=0.120.1",
+    "imblearn>=0.0",
+    "ipykernel>=7.1.0",
     "joblib>=1.5.2",
+    "matplotlib>=3.10.7",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
     "uvicorn>=0.38.0",
+    "xgboost>=3.1.1",
 ]
